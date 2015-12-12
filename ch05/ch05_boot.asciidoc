@@ -11,6 +11,8 @@ MROM:: Masked-programmed ROM is echt read-only geheugen. Het krijgt zijn inhoud 
 
 PROM:: Programmable ROM is eigenlijk ook read-only. De inhoud kan met behulp van een speciaal programmeertoestel eenmaal vastgelegd worden. Nadien kan de inhoud niet meer gewijzigd worden.
 
+EPROM:: (Erasable PROM) Het is een wisbaar, programmeerbaar, read-only, geheugen. Het is voorzien van een chip aan de bovenkant. Wanneer je met een UV licht enkele minuten schijnt op deze chip, zal het geheugen gewist worden. Je kan dit 10-20 keer aanpassen.
+
 EEPROM:: (_Electrically Erasable PROM_). Ook met dit type geheugen kan de inhoud gewist en vervolgens aangepast worden. Het verschil met EPROM is dat nu geen UV-licht nodig is, maar dat elektrische signalen volstaan voor het wissen. Dit kan dus met hetzelfde toestel als waarmee geprogrammeerd wordt. Het nadeel van EEPROM is de kostprijs. Voor dezelfde densiteit is het een pak duurder dan EPROM.
 
 Flash:: is net zoals EEPROM te wissen en opnieuw te beschrijven met elektrische signalen. Bovendien is voor flash geen speciaal programmeertoestel nodig. Aan de andere kant haalt het met EPROM vergelijkbare densiteiten. Bovendien is geen speciale verpakking met glas nodig. +
